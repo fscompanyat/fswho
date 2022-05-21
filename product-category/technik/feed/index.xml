@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Technik &#8211; sontoris</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 15 Apr 2022 12:21:06 +0000</lastBuildDate>
+	<language>de-AT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/03/santorislogo2.png</url>
+	<title>Technik &#8211; sontoris</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+
+        <wp_options>                 <wp_option>
+                    <name>shopengine_template__post_meta__shop</name>
+                    <val>0</val>
+                </wp_option>
+                                <wp_option>
+                    <name>shopengine_template__post_meta__archive</name>
+                    <val>0</val>
+                </wp_option>
+                                <wp_option>
+                    <name>shopengine_template__post_meta__single</name>
+                    <val>334</val>
+                </wp_option>
+                                <wp_option>
+                    <name>shopengine_template__post_meta__cart</name>
+                    <val>0</val>
+                </wp_option>
+                                <wp_option>
+                    <name>shopengine_template__post_meta__checkout</name>
+                    <val>0</val>
+                </wp_option>
+                                <wp_option>
+                    <name>shopengine_template__post_meta__quick_view</name>
+                    <val>0</val>
+                </wp_option>
+                
+        </wp_options> 	<item>
+		<title>Trust Webcam</title>
+		<link>./../../../product/trust-webcam/index.html</link>
+					<comments>./../../../product/trust-webcam/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[FSWHO]]></dc:creator>
+		<pubDate>Fri, 15 Apr 2022 09:53:03 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=597</guid>
+
+					<description><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
+ 	<li><span class="a-list-item">Leistungsstarke Webcam mit HD-Hardwareauflösung von echten 1,3 Megapixel ( 640x480 ) für hervorragende Bildschärfe</span></li>
+ 	<li><span class="a-list-item">Leistungsstarke integrierte LED-Beleuchtung mit Dimmfunktion für verbesserte Bildqualität bei schlechten Lichtverhältnissen</span></li>
+ 	<li><span class="a-list-item">Videos in hoher USB-2.0-Qualität für scharfe und saubere Videowiedergabe in Skype und YouTube</span></li>
+ 	<li><span class="a-list-item">Integriertes Mikrofon für klare Klangqualität</span></li>
+ 	<li><span class="a-list-item">Lieferumfang: Trust SpotLight Webcam 1.3 Megapixel, Webcam und Bedienungsanleitung</span></li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Leistungsstarke Webcam mit HD-Hardwareauflösung von echten 1,3 Megapixel ( 640&#215;480 ) für hervorragende Bildschärfe</span></li>
+<li><span class="a-list-item">Leistungsstarke integrierte LED-Beleuchtung mit Dimmfunktion für verbesserte Bildqualität bei schlechten Lichtverhältnissen</span></li>
+<li><span class="a-list-item">Videos in hoher USB-2.0-Qualität für scharfe und saubere Videowiedergabe in Skype und YouTube</span></li>
+<li><span class="a-list-item">Integriertes Mikrofon für klare Klangqualität</span></li>
+<li><span class="a-list-item">Lieferumfang: Trust SpotLight Webcam 1.3 Megapixel, Webcam und Bedienungsanleitung</span></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/trust-webcam/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

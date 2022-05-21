@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Kommentare für sontoris	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 15 Apr 2022 12:21:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>
+		Kommentar zu Audi R8 von Thomas Müller		</title>
+		<link>./../../product/audi-r8/index.html#comment-3</link>
+
+		<dc:creator><![CDATA[Thomas Müller]]></dc:creator>
+		<pubDate>Fri, 25 Mar 2022 16:18:51 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=195#comment-3</guid>
+
+					<description><![CDATA[Das Produkt wurde schnell geliefert und es war alles wie beschrieben
+Top Leistung!]]></description>
+			<content:encoded><![CDATA[<p>Das Produkt wurde schnell geliefert und es war alles wie beschrieben<br />
+Top Leistung!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
